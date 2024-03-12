@@ -12,14 +12,14 @@ INTRODUCTION TO PYTHON:
     Here is an example of the first problem I struggled with how my understand now:
      int('100', 2)
      Answer=4
-     -He I struggled to understand were the four was coming from, however now iI do understand that in the binanry system, each digit 
+     -Here I struggled to understand where the four was coming from, however now I do understand that in the binanry system, each digit 
       represents a power of 2. The first digit represents 2^0 which is 1, the next digit in the middle represents 2^1 which is 2, and the 
       last digit represents 2^2 which is 4.
 
-      So the binary number which is 100 can be interpreted as:
-       * 1 which is the first digit represents 2^2, which is equal to 4
-       * 0 in the middle represents 2^1, which equal to 0, since it's multiplied by 0.
-       * 0 in thelast digit represents 2^0, which is 1, since it's multiplied by 0.
+      So the binary number 100 can be interpreted as follows:
+       * 1 the first digit represents 2^2, which equals to 4
+       * 0 in the middle represents 2^1, which equals to 0.
+       * 0 in the last digit represents 2^0, which equals to 1.
          **Adding these up gives us: 4 + 0 + 0 = 4 , meaning 100 is equilavent to 4.
  -Second exercixe I struggled with under integers was this one:
     int('1ab', 16)
