@@ -31,3 +31,16 @@ INTRODUCTION TO PYTHON:
     *b represents the value 11 in hex.
     *if we had another letter which was c, it would have hasd the value of 12.
 
+*Data Structures
+ -Did an intro to structures exercise.
+ - Learnt about lists which may contain any data type, including a list within a list.
+ - Lists may be useful when you need to  store large amount of data more efficienctly in memory.
+ - Learnt what a dictionary, defined as a collection of key-value pairs. Dictionaries are declared using curly braces and accessed using keys.
+   **Lists:
+    -myList = [1,2,3,4,5]
+     myList = [3:] - Start from index 3 but the end is not specified so it displays all variables from index to the end.
+     myList = [0:6:2]- Start from from 0 to 6(exclusive). Using steps of 2.
+     myList[::2] - Steps by 2. The start is not specified as well as the end, so it will display all variables from start to end.
+
+   - for i in range(100): - Creates a sequence of numbers from 0 to 99(inclusive). So zero is also included( at index 0), which makes up to 100 numbers.
+   
