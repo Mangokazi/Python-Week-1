@@ -31,6 +31,9 @@ INTRODUCTION TO PYTHON:
     *b represents the value 11 in hex.
     *if we had another letter which was c, it would have hasd the value of 12.
 
+    -Operators
+     -Learnt the use of operators which is to manipulate and perform actions on data. Did an exercise using arithmetic operators as well as operators with strings.
+
 *Data Structures
  -Did an intro to structures exercise.
  - Learnt about lists which may contain any data type, including a list within a list.
@@ -44,3 +47,5 @@ INTRODUCTION TO PYTHON:
 
    - for i in range(100): - Creates a sequence of numbers from 0 to 99(inclusive). So zero is also included( at index 0), which makes up to 100 numbers.
    
+*Control Flow
+ -If/Else statement
