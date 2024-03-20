@@ -68,3 +68,6 @@ INTRODUCTION TO PYTHON:
 Pass
  -It is a null operation, nothing happens when it is executed.
  -It is used as a placeholder where some code is required but no action needs to be taken.
+
+ Continue
+  -Skips over certain lines within a loop, use the continue statement. Which will skip over any line that comes after it and jump back to the top of the loop to start the next iteration.
