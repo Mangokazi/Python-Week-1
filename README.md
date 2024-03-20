@@ -74,3 +74,10 @@ Pass
 
 Break
  -I f you want to exit the early, use the break statement which will exit the loop and move on to the next line of code.
+
+Functions
+ -A function is defined using the keyword def ( define) 
+   def my_function():
+    print("Hello from a function")
+
+  my_function()
