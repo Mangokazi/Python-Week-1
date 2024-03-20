@@ -86,9 +86,21 @@ Functions
 </details>
 <details>
 <summary>Python-Week-2</summary>
+A function is  block pf code that performs a specific task when the function is called. Functions are used to make code reusable, better organized, and more readable. 
+Funcitions can have parameters and return values.<br>
+There are four basic types of functions in Python:
+  -built-in function whichs which are an important part of Python.
+  -functions that come from pre-installed modules.
+  -user-defined functions which are written by users.
+  -the lambda functions.<br>
+  
 -When you invoke a function, Python remembers the place where it happened and jumps into the invoked function.
 -The body of the function is then executed.
--Reaching at the end of the function forces Python to return to the place directly after the point of invocation.
+-Reaching at the end of the function forces Python to return to the place directly after the point of invocation.<br>
+-When you try to invoke a function before you define it, the NameError exception is thrown.<br>
+ Example: hi()
+          def hi():
+           print("hi!")<br>
  *Syntax:
    def  message():
      print("Enter next values:")
