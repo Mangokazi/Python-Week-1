@@ -67,3 +67,4 @@ INTRODUCTION TO PYTHON:
 
 Pass
  -It is a null operation, nothing happens when it is executed.
+ -It is used as a placeholder where some code is required but no action needs to be taken.
