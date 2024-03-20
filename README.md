@@ -48,4 +48,22 @@ INTRODUCTION TO PYTHON:
    - for i in range(100): - Creates a sequence of numbers from 0 to 99(inclusive). So zero is also included( at index 0), which makes up to 100 numbers.
    
 *Control Flow
+ **Conditional Statements:
  -If/Else statement
+   - Allows you to execute a block of code conditionally based on whether a certain condition is true or false
+     **It has the synatax:
+         a=3
+         b=200
+          if b > a:
+            print("b is greater than a")
+     -If statement can also be extended to with elif and else.
+
+-For Loops
+  -Used when the number of iterations is known in advance.
+  -It consists of an initialization statement, a condition and an iteration statement. The loop executes as long as the statement is true.
+
+-While Loops
+ -Condition is evaluated before each iteration of the loop. If thew statement is true, the loop body is executed. If false the loop will terminate.
+
+Pass
+ -It is a null operation, nothing happens when it is executed.
