@@ -71,3 +71,6 @@ Pass
 
  Continue
   -Skips over certain lines within a loop, use the continue statement. Which will skip over any line that comes after it and jump back to the top of the loop to start the next iteration.
+
+Break
+ -I f you want to exit the early, use the break statement which will exit the loop and move on to the next line of code.
