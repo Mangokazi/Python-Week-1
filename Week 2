@@ -9,3 +9,4 @@
    print("We start here.")
    message()
    print("The end is here.")
+</details>
