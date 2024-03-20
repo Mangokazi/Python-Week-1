@@ -1,5 +1,7 @@
-# Python-Week-1
-Day 1: INTRODUCTION AND ONBOARDING <br>
+<details>
+  
+<summary>Python-Week-1</summary>
+ Day 1: INTRODUCTION AND ONBOARDING <br>
 -We were taught how to install Python and Jupyter Notebook.<br>
 -After installing the two we learnt about the use of neccessary prompts and ran a code on Jupyter.<br>
 -I have also learnt that Jupyter is Python IDE(Integrated Development Environment).<br>
@@ -81,3 +83,4 @@ Functions
     print("Hello from a function")
 
   my_function()
+</details>
