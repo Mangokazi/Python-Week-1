@@ -37,10 +37,10 @@ INTRODUCTION TO PYTHON:
      -Learnt the use of operators which is to manipulate and perform actions on data. Did an exercise using arithmetic operators as well as operators with strings.
 
 *Data Structures
- -Did an intro to structures exercise.
- - Learnt about lists which may contain any data type, including a list within a list.
- - Lists may be useful when you need to  store large amount of data more efficienctly in memory.
- - Learnt what a dictionary, defined as a collection of key-value pairs. Dictionaries are declared using curly braces and accessed using keys.
+ *Did an intro to structures exercise.
+ * Learnt about lists which may contain any data type, including a list within a list.
+ * Lists may be useful when you need to  store large amount of data more efficienctly in memory.
+ * Learnt what a dictionary, defined as a collection of key-value pairs. Dictionaries are declared using curly braces and accessed using keys.
    **Lists:
     -myList = [1,2,3,4,5]
      myList = [3:] - Start from index 3 but the end is not specified so it displays all variables from index to the end.
@@ -51,34 +51,34 @@ INTRODUCTION TO PYTHON:
    
 *Control Flow
  **Conditional Statements:
- -If/Else statement
-   - Allows you to execute a block of code conditionally based on whether a certain condition is true or false
+ *If/Else statement
+   * Allows you to execute a block of code conditionally based on whether a certain condition is true or false
      **It has the synatax:
          a=3
          b=200
           if b > a:
             print("b is greater than a")
-     -If statement can also be extended to with elif and else.
+     *If statement can also be extended to with elif and else.
 
--For Loops
-  -Used when the number of iterations is known in advance.
-  -It consists of an initialization statement, a condition and an iteration statement. The loop executes as long as the statement is true.
+*For Loops
+  *Used when the number of iterations is known in advance.
+  *It consists of an initialization statement, a condition and an iteration statement. The loop executes as long as the statement is true.
 
--While Loops
- -Condition is evaluated before each iteration of the loop. If thew statement is true, the loop body is executed. If false the loop will terminate.
+*While Loops
+ *Condition is evaluated before each iteration of the loop. If thew statement is true, the loop body is executed. If false the loop will terminate.
 
 Pass
- -It is a null operation, nothing happens when it is executed.
- -It is used as a placeholder where some code is required but no action needs to be taken.
+ *It is a null operation, nothing happens when it is executed.
+ *It is used as a placeholder where some code is required but no action needs to be taken.
 
  Continue
-  -Skips over certain lines within a loop, use the continue statement. Which will skip over any line that comes after it and jump back to the top of the loop to start the next iteration.
+  *Skips over certain lines within a loop, use the continue statement. Which will skip over any line that comes after it and jump back to the top of the loop to start the next iteration.
 
 Break
- -I f you want to exit the early, use the break statement which will exit the loop and move on to the next line of code.
+ *I f you want to exit the early, use the break statement which will exit the loop and move on to the next line of code.
 
 Functions
- -A function is defined using the keyword def ( define) 
+ *A function is defined using the keyword def ( define) 
    def my_function():
     print("Hello from a function")
 
