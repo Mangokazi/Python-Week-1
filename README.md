@@ -84,3 +84,15 @@ Functions
 
   my_function()
 </details>
+<details>
+<summary>Python-Week-2</summary>
+-When you invoke a function, Python remembers the place where it happened and jumps into the invoked function.
+-The body of the function is then executed.
+-Reaching at the end of the function forces Python to return to the place directly after the point of invocation.
+ *Syntax:
+   def  message():
+     print("Enter next values:")
+   print("We start here.")
+   message()
+   print("The end is here.")
+</details>
