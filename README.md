@@ -88,7 +88,7 @@ Functions
 <summary>Python-Week-2</summary><br><br>
 A function is  block of code that performs a specific task when the function is called. Functions are used to make code reusable, better organized, and more readable. They are composed of a name and parameters, which are denoted by the def statement: def MyFunction(num1, num2)<br>
 Funcitions can have parameters and return values.<br>
-There are four basic types of functions in Python:
+There are FOUR basic types of functions in Python:
   -built-in function whichs which are an important part of Python.
   -functions that come from pre-installed modules.
   -user-defined functions which are written by users.
@@ -134,6 +134,9 @@ There are four basic types of functions in Python:
 
      Variables and Scope
       Function Scope:
+       locals()-A function that allows access to all variables within a function without any asterisks. It is called locals because the variable it uses are only accessible locally within a function.
+
+     Lambda Functionds
 
   
         
