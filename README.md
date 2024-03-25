@@ -107,5 +107,31 @@ There are four basic types of functions in Python:
    print("We start here.")
    message()
    print("The end is here.")
-    new linew
+   <br>
+   Parameters and Arguments:<br>
+   
+   Parameters- Valriable defined within the parantheses during a function definition. They are written when declaring a function.
+     Example: def sum(a, b) #parameters
+                 print(a + b)
+              sum(1, 2)
+   <br>
+   Argument- Value that is passed to a function when it is called. It might be a variable, value or object passed to a function or method as input.
+   Example: def sum(a, b) 
+                 print(a + b)
+              sum(1, 2) #arguments
+  <br>
+  Types of arguments in python:
+   - Positional arguments
+   - Keyword arguments
+     <br>
+    Positional arguments:
+      -Needed to be included in a proper order, the first argument is always listed first when the function is called, second argument needs to be called second and so on.
+     <br>
+     Keyword arguments:
+      -It is an argument passed to a function or method which is preceded by a keyword and an equal sign. The order of the keyword with respect to another keyword does not matter because values are being explicitly assigned.
+      -In order to handle keyword arguments, a method called kwargs can be used.
+      -Keyword arguments have keys and values and can be passed in any order, so a dictionary is a more appropriate data strucutre for referencing them.
+
+  
+        
 </details>
