@@ -132,6 +132,9 @@ There are four basic types of functions in Python:
       -In order to handle keyword arguments, a method called kwargs can be used.
       -Keyword arguments have keys and values and can be passed in any order, so a dictionary is a more appropriate data strucutre for referencing them.
 
+     Variables and Scope
+      Function Scope:
+
   
         
 </details>
