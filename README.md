@@ -86,7 +86,7 @@ Functions
 </details>
 <details>
 <summary>Python-Week-2</summary><br><br>
-A function is  block pf code that performs a specific task when the function is called. Functions are used to make code reusable, better organized, and more readable. 
+A function is  block of code that performs a specific task when the function is called. Functions are used to make code reusable, better organized, and more readable. They are composed of a name and parameters, which are denoted by the def statement: def MyFunction(num1, num2)<br>
 Funcitions can have parameters and return values.<br>
 There are four basic types of functions in Python:
   -built-in function whichs which are an important part of Python.
