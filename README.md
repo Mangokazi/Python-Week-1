@@ -134,7 +134,111 @@ There are FOUR basic types of functions in Python:
 
      Variables and Scope
       Function Scope:
-       locals()-A function that allows access to all variables within a function without any asterisks. It is called locals because the variable it uses are only accessible locally within a function.
+       locals()-A function that allows access to all variables within a function without any asterisks. It is called locals because the variable it uses are only accessible locally within a function.<br>
+       Docstring-The first string after the function is called the Document string or docstring. Ii is used to describe the functionality of the function. The use of a docstring optional but it is considered agood practice.
+         Syntax:
+           print(function_name._doc_)
+  <br>
+  Function within a function
+  -Afunction thst is defined inside another function is known as the inner function or nested fuction. Nested functions can access variables of the enclosing scope. Inner functions are used so thst they can be protected from ecerything happening outside the function.
+    Syntax: def f1():
+              s='I love GeeksforGeeks'
+             def f2():
+               print(s)
+             f2()
+            f1()
+
+Handling Errors and Exceptions
+ -Errors in Python can be of two types i.e Syntax and Exceptions. Errors are problems in a program due to which program will stop the execution. Wjile exceptions are raised when some internal events occur which change the normal flow of the program.  <br>
+ There are different types of exceptions:
+  -SyntaxError
+  -TypeError
+  -NameError
+  -IndexError
+  -ValueError
+  -KeyError
+  -AttributeError
+  -IOError
+  ZeroDivisionError
+  -ImportError
+  <br>
+
+  Difference between syntax error and exceptions
+   -Syntax error- This error is caused by the wrong syntax in the code. It leads to termination of the program.<br>
+   -Exceptions: Theyare raised when the program is syntactically correct, but the code results in an error. This error does not stop the execution of the program, however, it changes the normal flow of the program.<br>
+
+   Try and Except Statements- Catching Exceptions
+    -These two statements are used to catch and handle exceptions in Python. Statements that can raise exceptions are kept inside the try clause and the statements that are written inside except clause.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
 
      Lambda Functionds
 
