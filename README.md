@@ -177,6 +177,13 @@ Handling Errors and Exceptions
 
   On this week we learnt about the importance of project planning as were preparing to build and present our projects. This includes a GUI which is a graphical user interface for our projects.The project planning, the inspiration of the project as well as the aim.
 ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/61e57cb5-97b4-4a1a-8ed1-286c7f3f02a9)
-
+<br>
+Stub code: Stub code is a piece of program used in software development to1234:
+Stand in for some other programming functionality.
+Simulate the behavior of existing code (such as a procedure on a remote machine).
+Be a temporary substitute for yet-to-be-developed code.
+Translate parameters sent between the client and server during a remote procedure call in distributed computing.
+Convert parameters during a remote procedure call (RPC).
+Be used as "placeholders" for specific applications that haven't been built yet.
   
 </details>
