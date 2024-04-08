@@ -184,6 +184,19 @@ Simulate the behavior of existing code (such as a procedure on a remote machine)
 Be a temporary substitute for yet-to-be-developed code.
 Translate parameters sent between the client and server during a remote procedure call in distributed computing.
 Convert parameters during a remote procedure call (RPC).
-Be used as "placeholders" for specific applications that haven't been built yet.
-  
+Be used as "placeholders" for specific applications that haven't been built yet.<br>
+
+GUI Design planning: Planning a GUI design involves several steps:
+Define the purpose: Understand what the application is supposed to do and what problems it will solve.
+Understand the users: Know who will use the application and what their needs are.
+Sketch out ideas: Create rough sketches of the GUI to explore different designs.
+Create wireframes: Develop wireframes to establish the layout and elements of the interface.
+Choose a color scheme and typography: Select colors and fonts that align with the brand and improve readability.
+Develop prototypes: Build interactive prototypes to test functionality and user experience.
+User testing: Conduct user testing to gather feedback and make necessary adjustments.
+
+
+
+
+
 </details>
