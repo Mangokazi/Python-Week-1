@@ -172,7 +172,7 @@ Handling Errors and Exceptions
       
 </details>
 
-<summary>Python-Week-2</summary><br><br>
+<summary>Python-Week-3</summary><br><br>
 <details>
   On this week we learnt about the importance of project planning as were preparing to build and present our projects. This includes a GUI which is a graphical user interface for our projects.The project planning, the inspiration of the project as well as the aim.
 
