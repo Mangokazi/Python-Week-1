@@ -169,6 +169,7 @@ Handling Errors and Exceptions
 
    Try and Except Statements- Catching Exceptions
     -These two statements are used to catch and handle exceptions in Python. Statements that can raise exceptions are kept inside the try clause and the statements that are written inside except clause.
+    -Use Case: Include a title, an actor (a user or system), and a scenario that describes how a goal is achieved. The scenario can be written as a paragraph or a list of steps in simple language. 
       
 </details>
 <details>
