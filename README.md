@@ -171,9 +171,9 @@ Handling Errors and Exceptions
     -These two statements are used to catch and handle exceptions in Python. Statements that can raise exceptions are kept inside the try clause and the statements that are written inside except clause.
       
 </details>
-
-<summary>Python-Week-3</summary><br><br>
 <details>
+<summary>Python-Week-3</summary><br><br>
+
   On this week we learnt about the importance of project planning as were preparing to build and present our projects. This includes a GUI which is a graphical user interface for our projects.The project planning, the inspiration of the project as well as the aim.
 
   
