@@ -202,5 +202,7 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
 ## Module 1: The Basics of Data
 ### Chapter 1: The Data Analyst
 * What is data analytics?
+  -Data analytics is the process of examining large sets of data to uncover patterns, trends, correlations, and insights that can be used to make informed decisions. It involves various techniques and tools to analyze data, including statistical analysis, machine learning algorithms, and data mining.
+* Data Collection and Prepation
 * 
 </details>
