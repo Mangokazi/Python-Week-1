@@ -194,9 +194,11 @@ Create wireframes: Develop wireframes to establish the layout and elements of th
 Choose a color scheme and typography: Select colors and fonts that align with the brand and improve readability.
 Develop prototypes: Build interactive prototypes to test functionality and user experience.
 User testing: Conduct user testing to gather feedback and make necessary adjustments.
-
-
-
-
-
+</details>
+<details>
+<summary>Data Analytics-Week-1</summary><br><br>
+# Day 1
+## Module 1: The Basics of Data
+###Chapter 1: The Data Analyst
+  *What is data analytics?
 </details>
