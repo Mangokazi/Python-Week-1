@@ -240,8 +240,6 @@ Handling Errors and Exceptions
 
      
 
-     Lambda Functionds
-
   
         
 </details>
