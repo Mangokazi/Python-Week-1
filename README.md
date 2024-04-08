@@ -201,5 +201,6 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
 # Day 1
 ## Module 1: The Basics of Data
 ### Chapter 1: The Data Analyst
-  *What is data analytics?
+* What is data analytics?
+* 
 </details>
