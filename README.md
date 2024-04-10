@@ -233,4 +233,7 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
    * Data Types:  A data element is an attribute about a person, place, or thing containing data within a range of values. Data elements also describe characteristics of activities, including orders, transactions, and events.
    -  A data type limits the values a data element can have.
    *Tabular Data: abular data is data organized into a table, made up of columns and rows.
+* Structured Data Structures:Structured data is tabular in nature and organized into rows and columns. Structured data is what typically comes to mind when looking at a spreadsheet. With clearly defined column headings, spreadsheets are easy to work with and understand. In a spreadsheet, cells are where columns and rows intersect.
+  ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/f7b9e1ec-645e-4b19-99d7-62abed108a14)
+
 </details>
