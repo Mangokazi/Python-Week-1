@@ -198,7 +198,7 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
 <details>
 <summary>Data Analytics-Week-1</summary><br>
   
-# Day 1
+
 ## Module 1: The Basics of Data
 ### Chapter 1: The Data Analyst
 * What is data analytics?
@@ -223,5 +223,6 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
   6. Continuous Learning and Adaptation:
      -Keeping up-to-date with the latest industry trends, tools, and technologies in data analysis.
      -Adapting to new types of data and analytical methods as the organization's needs evolve.
-  
+  * The analytics process:
+     Data acquisition>> cleaning & manipulation>> analysis>> visualization>> reporting & communication                                                                                                                                                                                                                
 </details>
