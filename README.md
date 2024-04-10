@@ -1,5 +1,5 @@
-     b   <details>
-  
+ 
+<detail>
 <summary>Python-Week-1</summary>
  Day 1: INTRODUCTION AND ONBOARDING <br>
 -We were taught how to install Python and Jupyter Notebook.<br>
