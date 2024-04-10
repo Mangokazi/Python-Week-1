@@ -1,6 +1,6 @@
  
-<detail>
-<summary>Python-Week-1</summary>
+<details>
+<summary>Python-Week-1</summary><br>
  Day 1: INTRODUCTION AND ONBOARDING <br>
 -We were taught how to install Python and Jupyter Notebook.<br>
 -After installing the two we learnt about the use of neccessary prompts and ran a code on Jupyter.<br>
