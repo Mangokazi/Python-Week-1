@@ -227,5 +227,8 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
      Data acquisition>> cleaning & manipulation>> analysis>> visualization>> reporting & communication                                                                  * Analytics Techniques :
     - Descriptive Analytics
     - Predictive Analytics
-    - Prescriptive Analytics                                                                                                                                            
+    - Prescriptive Analytics                                                                                                                                            * Data Governance: Data governance programs ensure that the organization has high-quality data and is able to effectively control that data.
+
+  ### Chapter 2: Understanding data
+   * Data Types
 </details>
