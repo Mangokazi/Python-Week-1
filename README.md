@@ -230,5 +230,7 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
     - Prescriptive Analytics                                                                                                                                            * Data Governance: Data governance programs ensure that the organization has high-quality data and is able to effectively control that data.
 
   ### Chapter 2: Understanding data
-   * Data Types
+   * Data Types:  A data element is an attribute about a person, place, or thing containing data within a range of values. Data elements also describe characteristics of activities, including orders, transactions, and events.
+   -  A data type limits the values a data element can have.
+   *Tabular Data: abular data is data organized into a table, made up of columns and rows.
 </details>
