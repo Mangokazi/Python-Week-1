@@ -196,7 +196,7 @@ Develop prototypes: Build interactive prototypes to test functionality and user 
 User testing: Conduct user testing to gather feedback and make necessary adjustments.
 </details>
 <details>
-<summary>Data Analytics-Week-1</summary><br>
+<summary>Data Analytics-Week-1&2</summary><br>
   
 
 ## Module 1: The Basics of Data
