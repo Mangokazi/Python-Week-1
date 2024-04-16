@@ -224,16 +224,36 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
      -Keeping up-to-date with the latest industry trends, tools, and technologies in data analysis.
      -Adapting to new types of data and analytical methods as the organization's needs evolve.
   * The analytics process:
-     Data acquisition>> cleaning & manipulation>> analysis>> visualization>> reporting & communication                                                                  * Analytics Techniques :
+     Data acquisition>> cleaning & manipulation>> analysis>> visualization>> reporting & communication
+  * Analytics Techniques :
     - Descriptive Analytics
     - Predictive Analytics
-    - Prescriptive Analytics                                                                                                                                            * Data Governance: Data governance programs ensure that the organization has high-quality data and is able to effectively control that data.
-
+    - Prescriptive Analytics
+  *Role of Data Governance:Ensures the quality, security, and privacy of data throughout it's lifecycle.<br>
   ### Chapter 2: Understanding data
    * Data Types:  A data element is an attribute about a person, place, or thing containing data within a range of values. Data elements also describe characteristics of activities, including orders, transactions, and events.
    -  A data type limits the values a data element can have.
    *Tabular Data: abular data is data organized into a table, made up of columns and rows.
 * Structured Data Structures:Structured data is tabular in nature and organized into rows and columns. Structured data is what typically comes to mind when looking at a spreadsheet. With clearly defined column headings, spreadsheets are easy to work with and understand. In a spreadsheet, cells are where columns and rows intersect.
   ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/f7b9e1ec-645e-4b19-99d7-62abed108a14)
+*Different data types:
+-Numeric data
+-Categorical data
+-Text data
+-Temporal data
+-Spatial data
+*Character Sets:
+-Numeric
+-Whole numbers
+-Rational numbers
+-Date and time
+-Currently
+*Unstructured data sets:
+-Binary
+-Audio
+-Images
+-Video
+-Large text
+*Structed DATA                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
 </details>
