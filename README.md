@@ -254,6 +254,21 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
 -Images
 -Video
 -Large text
-*Structed DATA                                                                                                                                                                                                                                                                                                                                                                                                                                                
+*Structed Data
+*Unstructured Data<br>
+### Chapter 3: Databases and Data Acquisition
+*Relational database:
+-Relational databases store data in structured tables with rows and columns, where each row represents a record and each column represents a specific attribute or field.
+Data in relational databases follows a predefined schema, which defines the structure, data types, and relationships between tables.
+Relational databases use SQL (Structured Query Language) for querying and managing data.
+Examples of relational database management systems (RDBMS) include MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server, and SQLite.
+Relational databases are well-suited for applications that require ACID (Atomicity, Consistency, Isolation, Durability) transactions, complex queries, and strong data consistency guarantees.
+
+*Nonrelational databases:
+-Nonrelational databases, also known as NoSQL databases, are designed to handle large volumes of unstructured or semi-structured data and provide flexible data models.
+Unlike relational databases, NoSQL databases do not strictly adhere to a predefined schema, allowing for dynamic schema evolution and schema-less data storage.
+NoSQL databases support various data models, including document-oriented, key-value, column-family, and graph databases, catering to different types of data and use cases.
+Examples of NoSQL databases include MongoDB (document-oriented), Apache Cassandra (column-family), Redis (key-value), Neo4j (graph), and Amazon DynamoDB (document-oriented and key-value).
+NoSQL databases are often chosen for applications that require scalability, high availability, and flexible data models, such as web applications, real-time analytics, and content management systems.
 
 </details>
