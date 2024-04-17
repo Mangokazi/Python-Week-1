@@ -281,5 +281,8 @@ Relationships: Relationships represent how entities are connected or related to 
 
 Attributes: Attributes represent the properties or characteristics of entities. Each entity has its own set of attributes. For example, attributes of a Student entity might include StudentID, Name, and DateOfBirth.<br>
 ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/02010eea-7bfe-447a-889d-5daeb3a1119a)
+*Cardinality:
+-Cardinality refers to the relationship between two entities, showing how many instances of one entity relate to instances in another entity. You specify cardinality in an ERD with various line endings. The first component of the terminator indicates whether the relationship between two entities is optional or required. The second component indicates whether an entity instance in the first table is associated with a single entity instance in the related table or if an association can exist with multiple entity instances. <br>
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/21f79a92-0d63-45e9-8485-83c82e5afef3)
 
 </details>
