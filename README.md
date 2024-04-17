@@ -279,7 +279,7 @@ Entities: Entities represent the real-world objects or concepts that are modeled
 
 Relationships: Relationships represent how entities are connected or related to each other. There are different types of relationships, such as one-to-one, one-to-many, and many-to-many. For example, a Student entity might have a relationship with a Course entity indicating that a student can enroll in multiple courses.
 
-Attributes: Attributes represent the properties or characteristics of entities. Each entity has its own set of attributes. For example, attributes of a Student entity might include StudentID, Name, and DateOfBirth.
+Attributes: Attributes represent the properties or characteristics of entities. Each entity has its own set of attributes. For example, attributes of a Student entity might include StudentID, Name, and DateOfBirth.<br>
 ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/02010eea-7bfe-447a-889d-5daeb3a1119a)
 
 </details>
