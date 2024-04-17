@@ -256,6 +256,7 @@ User testing: Conduct user testing to gather feedback and make necessary adjustm
 -Large text
 *Structed Data
 *Unstructured Data<br>
+## Module 2: Data Preparation and Exploration
 ### Chapter 3: Databases and Data Acquisition
 *Relational database:
 -Relational databases store data in structured tables with rows and columns, where each row represents a record and each column represents a specific attribute or field.
@@ -270,5 +271,15 @@ Unlike relational databases, NoSQL databases do not strictly adhere to a predefi
 NoSQL databases support various data models, including document-oriented, key-value, column-family, and graph databases, catering to different types of data and use cases.
 Examples of NoSQL databases include MongoDB (document-oriented), Apache Cassandra (column-family), Redis (key-value), Neo4j (graph), and Amazon DynamoDB (document-oriented and key-value).
 NoSQL databases are often chosen for applications that require scalability, high availability, and flexible data models, such as web applications, real-time analytics, and content management systems.
+*Entity-Relationship Diagram:
+-An Entity-Relationship Diagram (ERD) is a visual representation of the entities and relationships within a database. It's a powerful tool for database design as it helps to visualize the structure of the database and understand how different entities are related to each other.
+
+In an ERD, entities are represented by rectangles, and relationships between entities are represented by lines connecting them. Each entity has attributes, which are the properties or characteristics of the entity. Attributes are typically listed within the entity rectangle.
+Entities: Entities represent the real-world objects or concepts that are modeled in the database. For example, in a university database, entities might include Student, Course, and Instructor.
+
+Relationships: Relationships represent how entities are connected or related to each other. There are different types of relationships, such as one-to-one, one-to-many, and many-to-many. For example, a Student entity might have a relationship with a Course entity indicating that a student can enroll in multiple courses.
+
+Attributes: Attributes represent the properties or characteristics of entities. Each entity has its own set of attributes. For example, attributes of a Student entity might include StudentID, Name, and DateOfBirth.
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/02010eea-7bfe-447a-889d-5daeb3a1119a)
 
 </details>
