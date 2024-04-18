@@ -284,5 +284,56 @@ Attributes: Attributes represent the properties or characteristics of entities. 
 *Cardinality:
 -Cardinality refers to the relationship between two entities, showing how many instances of one entity relate to instances in another entity. You specify cardinality in an ERD with various line endings. The first component of the terminator indicates whether the relationship between two entities is optional or required. The second component indicates whether an entity instance in the first table is associated with a single entity instance in the related table or if an association can exist with multiple entity instances. <br>
          ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/21f79a92-0d63-45e9-8485-83c82e5afef3)
+*Data Manipulation
+-When manipulating data, one of four possible actions occurs:
+-Create new data.
+-Read existing data.
+-Update existing data.
+-Delete existing data.<br>
+
+Reading and manipulating data is commonplace on the path to creating insights. To that end, we will focus on options that affect reading data. Before jumping in, it is helpful to understand the syntax of a query.
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/fd909233-2461-45d0-8d9f-66c8169cbddb)
+*Select:
+-The SELECT clause is used to retrieve data from a database. It is one of the fundamental clauses in SQL queries. 
+Example:
+SELECT column1, column2, ...
+FROM table_name;
+ <br>
+ *From:
+ -The FROM clause in a query identifies the source of data, which is frequently a database table. Both the SELECT and FROM clauses are required for a SQL statement to return data, as follows:
+<br>
+*Filtering:
+-Filtering in SQL is done using the WHERE clause within the SELECT statement. The WHERE clause allows you to specify conditions that the rows must meet in order to be included in the result set. 
+Example:
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+<br>
+*Sorting:
+-Sorting in SQL is done using the ORDER BY clause within the SELECT statement. The ORDER BY clause allows you to specify the order in which the result set should be sorted based on one or more columns.
+Example:
+SELECT column1, column2, ...
+FROM table_name
+ORDER BY column_name [ASC | DESC];
+<br>
+*Date funtions:
+-SQL provides various date functions to manipulate and work with date and time data. Some commonly used date functions include:
+*Current date: SELECT CURRENT_DATE;
+*Current time: SELECT CURRENT_TIME;
+*CURRENT_TIMESTAMP: SELECT CURRENT_TIMESTAMP;
+*DATE_FORMAT: SELECT DATE_FORMAT(date_column, 'format_string') FROM table_name;
+*DATE_ADD: SELECT DATE_ADD(date_column, INTERVAL 1 DAY) FROM table_name;
+*DATE_SUB: SELECT DATE_SUB(date_column, INTERVAL 1 MONTH) FROM table_name;
+*DATEDIFF: SELECT DATEDIFF(end_date, start_date) FROM table_name;
+*DATE: SELECT DATE(datetime_column) FROM table_name;
+*EXTRACT: SELECT EXTRACT(YEAR FROM date_column) FROM table_name;
+<br>
+*Logical Functions:
+
+
+
+
+
+
 
 </details>
