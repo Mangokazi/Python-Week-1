@@ -292,7 +292,7 @@ Attributes: Attributes represent the properties or characteristics of entities. 
 -Delete existing data.<br>
 
 Reading and manipulating data is commonplace on the path to creating insights. To that end, we will focus on options that affect reading data. Before jumping in, it is helpful to understand the syntax of a query.
-![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/fd909233-2461-45d0-8d9f-66c8169cbddb)
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/fd909233-2461-45d0-8d9f-66c8169cbddb)<br>
 *Select:
 -The SELECT clause is used to retrieve data from a database. It is one of the fundamental clauses in SQL queries. 
 Example:
@@ -328,7 +328,35 @@ ORDER BY column_name [ASC | DESC];
 *DATE: SELECT DATE(datetime_column) FROM table_name;
 *EXTRACT: SELECT EXTRACT(YEAR FROM date_column) FROM table_name;
 <br>
-*Logical Functions:
+### Chapter 4: Data Quality
+* Data quality refers to the reliability, accuracy, consistency, completeness and relevance of data. It is about having data that is ft for it's intended purpose.
+* Accuracy
+* Completeness
+* Consistency
+* Relevance<br>
+-The purpose of data quality is to improve decision making.
+- Challenges within data quality:
+* Errors
+* Duplicates
+* Incomplete data
+* Outdated data
+-Tool:
+*Data cleaning softwares
+* KPIs
+<br>
+- Duplicate data:
+* Duplicate data occurs when data representing the same transaction is accidentally duplicated within a system. Suppose you want to open a spreadsheet on your local computer. To open the spreadsheet, you locate the file and double-click it. This method of opening documents establishes muscle memory that associates double-clicking with the desired action.<br>
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/1dca59a2-46bc-425a-99a2-0b148c4c20f0)<br>
+-Redundant data:
+* While duplicate data typically comes from accidental data entry, redundant data happens when the same data elements exist in multiple places within a system. Frequently, data redundancy is a function of integrating multiple systems.<br>
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/9f4f5a12-0d5e-4d35-a418-da9d701a8064)<br>
+
+-Data Blending:
+*Data blending combines multiple sources of data into a single dataset at the reporting layer. While data blending is conceptually similar to the extract, transform, and load process in Chapter 3, there is a crucial difference. Recall that ETL processes operate on a schedule, copying data from source systems into analytics environments. Business requirements drive the scheduling, such as near real-time, hourly, daily, weekly, monthly, or annually. Typically, an organization's IT department designs, builds, operates, and maintains ETL processes.<br>
+
+
+  
+
 
 
 
