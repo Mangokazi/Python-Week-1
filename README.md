@@ -9,8 +9,11 @@
 - Python may be used with any code editors, however, I will be using Jupyter Notebook.<br>
 - There is a command that is used to access stored files which is, cd command. It is used to change directory.<br>
 <br>
-# INTRODUCTION TO PYTHON:
+
+# INTRODUCTION TO PYTHON:<br>
+
  #### Integers:
+ 
   - In this section I was struggling to understand an exercise on binary system and hexadecimal strings.
     Here is an example of the first problem I struggled with how my understand now:
      int('100', 2)
