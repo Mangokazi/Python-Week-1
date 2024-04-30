@@ -650,6 +650,14 @@ Regulations like GDPR and CCPA aim to protect individual privacy rights and ensu
 - Skills and Talent Development:
 The demand for data scientists, analysts, and professionals with big data skills has grown significantly.
 Education and training programs focus on developing data literacy, analytics, and programming skills to meet industry demands.
+### Defining Big Data
+- One way to define and characterize big data is through these five Vs:<br>
+
+- Volume: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
+- Variety: There are already a lot of legacy file formats, such as CSV and MP3, and with new innovations, new formats are emerging all the time. This requires different methods of handling, from analysis to security.
+- Velocity: With so many collection points, digital interfaces, and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, uploaded, and share 65,000 pictures a minute.
+- Variability:  The fact that the creation and flow of data are unpredictable.
+- Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management.
 
 
 
