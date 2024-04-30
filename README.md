@@ -560,6 +560,9 @@ To give you a sense of scale:
 - A single zettabyte could hold billions of hours of HD video, millions of years' worth of music, or countless documents and images.
 - The entire world's digital data produced in a year might reach into the zettabyte range.
 - The exponential growth of data generated each year has made zettabytes more relevant. With the increasing use of the internet, social media, cloud computing, and the Internet of Things (IoT), it's expected that the global data volume will continue to grow rapidly, possibly reaching zettabyte levels sooner than we might imagine.
+### The qualitative and quantitative nature of data types
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/a7b4cfef-8134-45d3-9a22-478f02f9aaa0)<br>
+
 
 
  
