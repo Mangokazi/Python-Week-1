@@ -472,7 +472,7 @@ Example: Implementing information governance might involve developing a comprehe
 - Support for Data-Driven Innovation: Data governance provides a solid foundation for data-driven innovation initiatives. With properly governed data, organizations can explore new opportunities, develop innovative products and services, and adapt to changing market conditions more effectively.
 - Customer Satisfaction and Loyalty: By ensuring data accuracy and privacy, organizations can enhance customer satisfaction and loyalty. Customers are more likely to trust organizations that handle their data responsibly, leading to stronger relationships and increased customer retention.
 ## The most common elements of a data governance program.
-https://classes.capaciti.org.za/asset-v1:CITI+DS+2023+type@asset+block@Data_Governance.jpg
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/3f785a99-e2ce-4963-b842-19adf47984d0)
 
 
  
