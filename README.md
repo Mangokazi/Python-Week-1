@@ -396,14 +396,14 @@ MicroStrategy is an analytics suite that is less well-known than similar tools f
 <summary>Data Governance</summary><br>
  
 ### Data Governance: Module
-* What is data?
+# What is data?
 -Data refers to facts, figures, or information, often in the form of numbers, text, or multimedia, that are collected, stored, and analyzed for various purposes. It can be anything from simple measurements to complex multimedia files, and it can represent almost anything, from business transactions to scientific observations to personal preferences.
-* Data can be classified into two main types:
+# Data can be classified into two main types:
 -Structured Data: This type of data is highly organized and formatted in a way that makes it easily searchable and analyzable. Structured data often resides in databases and is represented in tables with rows and columns. Examples include spreadsheets, SQL databases, and CSV files.<br>
 -Unstructured Data: This type of data lacks a specific structure and is not easily organized in a traditional database format. Unstructured data includes text documents, images, videos, social media posts, emails, and more. Analyzing unstructured data often requires advanced techniques such as natural language processing (NLP) or computer vision.<br>
 - Data is an important important resource an oganization possesses in today's economy.
 - Despite the fact that all organizations handle and control data, a significant number struggle to do so effectively. This leads to missed opportunities for business growth, revenue enhancement, and the utilization of crucial insights. Moreover, these organizations expose themselves to increased risk in a world fraught with complicated regulatory demands and devastating cyberattacks.
-* What is data governance?
+# What is data governance?
 - Data governance is a framework that defines the rules, policies, procedures, and responsibilities for managing and ensuring the quality, availability, integrity, and security of an organization's data throughout its lifecycle. It provides a structured approach to managing data assets and helps organizations ensure that their data is used effectively, responsibly, and in compliance with regulatory requirements.
 
 
