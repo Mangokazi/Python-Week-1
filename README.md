@@ -353,8 +353,27 @@ ORDER BY column_name [ASC | DESC];
 
 -Data Blending:
 *Data blending combines multiple sources of data into a single dataset at the reporting layer. While data blending is conceptually similar to the extract, transform, and load process in Chapter 3, there is a crucial difference. Recall that ETL processes operate on a schedule, copying data from source systems into analytics environments. Business requirements drive the scheduling, such as near real-time, hourly, daily, weekly, monthly, or annually. Typically, an organization's IT department designs, builds, operates, and maintains ETL processes.<br>
+### Chapter 5: Data Analysis and Stastics
+* Fundamentals of Statistics:
+* _One key concept is the definition of a population. A population represents all the data subjects you want to analyze. For example, suppose you are an analyst at the National Highway Traffic Safety Administration (NHTSA) and start to receive reports about a potential defect in Ford F-Series trucks. In this case, the population is all Ford F-Series trucks. If you want to examine all Ford F-Series vehicles, you'd have to conduct a census. A census is when you obtain data for every element of your population. Conducting a census is typically infeasible due to the effort involved and the scarcity of resources.
+* Descriptive Statistics:
+* -Descriptive statistics is a branch of statistics that summarizes and describes data. As you explore a new dataset for the first time, you want to develop an initial understanding of the size and shape of the data. You use descriptive statistics as measures to help you understand the characteristics of your dataset.
 
+When initially exploring a dataset, you may perform univariate analysis to answer questions about a variable's values. You also use descriptive measures to develop summary information about all of a variable's observations. This context helps orient you and informs the analytical techniques you use to continue your analysis.
+*Measures of Frequency:
+-Measures of frequency help you understand how often something happens. When encountering a dataset for the first time, you want to determine how much data you are working with to help guide your analysis. For example, suppose you are working with human performance data. One of the first things to understand is the size of the dataset. One way to accomplish this quickly is to count the number of observations.
+*Measures of Central Tendency:
+-To help establish an overall perspective on a given dataset, an analyst explores various measures of central tendency. You use measures of central tendency to identify the central, or most typical, value in a dataset. There are numerous ways to measure central tendency, and you end up using them in conjunction with each other to understand the shape of your data.
+*Confidence Intervals:
+-Each time you take a sample from a population, the statistics you generate are unique to the sample. In order to make inferences about the population as a whole, you need a way to come up with a range of scores that you can use to describe the population as a whole. A confidence interval describes the possibility that a sample statistic contains the true population parameter in a range of values around the mean. When calculating a confidence interval, you end up with a lower bound value and an upper bound value. Given the confidence interval range, the lower bound is the lower limit, and the upper bound is the upper limit.
+*Simple Linear Regression:
+-Simple linear regression is an analysis technique that explores the relationship between an independent variable and a dependent variable. You can use linear regression to identify whether the independent variable is a good predictor of the dependent variable. You can perform a regression analysis in spreadsheets like Microsoft Excel and programming languages, including Python and R. When plotting the results of a regression, the independent variable is on the x-axis and the dependent variable is on the y-axis.
+### Chapter 6: Data Analytics Tools
+*Structured Query Language (SQL):
+-The Structured Query Language (SQL) is the language of databases. Any time a developer, administrator, or end user interacts with a database, that interaction happens through the use of a SQL command. SQL is divided into two major sublanguages:
 
+The Data Definition Language (DDL) is used mainly by developers and administrators. It's used to define the structure of the database itself. It doesn't work with the data inside a database, but it sets the ground rules for the database to function.
+The Data Manipulation Language (DML) is the subset of SQL commands that are used to work with the data inside of a database. They do not change the database structure, but they add, remove, and change the data inside a database.
   
 
 
