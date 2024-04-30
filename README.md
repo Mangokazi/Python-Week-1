@@ -376,7 +376,21 @@ The Data Definition Language (DDL) is used mainly by developers and administrato
 The Data Manipulation Language (DML) is the subset of SQL commands that are used to work with the data inside of a database. They do not change the database structure, but they add, remove, and change the data inside a database.
 *Machine Learning:
 -Moving on from statistics-focused tools, the industry also makes use of a set of graphical tools designed to help analysts build machine learning models without requiring them to actually write the code to do so. These machine-learning tools aim to make machine-learning techniques more accessible. Analysts may still tune the parameters of their models but do not necessarily need to write scripts to do so.
+*Analytics Suites
+-programming languages that allow skilled developers to complete whatever analytic task face them and specialized tools, such as spreadsheets, statistics packages, and
+machine learning tools that focus on one particular component of the analytics process.
+*Microsoft Power BI
+-Power BI is Microsoft's analytics suite built on the company's popular SQL Server database platform. Power BI is popular among organizations that make widespread use of other Microsoft software because of its easy integration with those packages and cost-effective bundling within an organization's Microsoft enterprise license agreement.
 
+The major components of Power BI include the following:
+
+Power BI Desktop is a Windows application for data analysts, allowing them to interact with data and publish reports for others.
+The Power BI service is Microsoft's software-as-a-service (SaaS) offering that hosts Power BI capabilities in the cloud for customers to access.
+Mobile apps for Power BI provide users of iOS, Android, and Windows devices with access to Power BI capabilities.
+Power BI Report Builder allows developers to create paginated reports that are designed for printing, email, and other distribution methods.
+Power BI Report Server offers organizations the ability to host their own Power BI environment on internal servers for stakeholders to access.
+*MicroStrategy
+MicroStrategy is an analytics suite that is less well-known than similar tools from IBM and Microsoft, but it does have a well-established user base. MicroStrategy offers many of the same tools as its counterparts, making it easy for users to build dashboards and reports and apply machine learning techniques to their business data.
 
   
 
