@@ -572,7 +572,7 @@ To give you a sense of scale:
 -Data ownership describes the rights a person, team, or organization has over one or more data sets. These rights may span from lightweight oversight and control to rigorous rules that are legally enforceable. For example, data associated with intellectual property — items such as copyrights and trade secrets — will likely have high degrees of protection, from accessibility rights to who can use the data and for what purpose.
 ### Data Architecture
 - Data architecture refers to the design and structure of an organization's data assets, including how data is collected, stored, processed, managed, and utilized. It provides a blueprint for managing data effectively to support business objectives and information needs.<br>
-Here's a breakdown of key components of data architecture:<br>
+### Here's a breakdown of key components of data architecture:<br>
 - Data Sources and Collection:<br>
 Identifies the various sources of data within and outside the organization, such as databases, applications, sensors, devices, and external data providers.
 Defines mechanisms for collecting, extracting, and ingesting data from these sources into the data environment.
