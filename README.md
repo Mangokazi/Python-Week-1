@@ -417,9 +417,13 @@ MicroStrategy is an analytics suite that is less well-known than similar tools f
   ### Data Governance VS Data Management
 - Data governance and data management are related concepts that work together to ensure the effective use and management of data within an organization, but they focus on different aspects of the data lifecycle.
  ### Data Governance:
-Focus: Data governance focuses on the overall strategy, policies, and framework for managing and ensuring the quality, availability, integrity, and security of data.
-Purpose: The primary purpose of data governance is to establish rules, guidelines, and processes to ensure that data is used effectively, responsibly, and in compliance with regulatory requirements.
-Components: Data governance involves defining the roles and responsibilities of stakeholders, establishing policies and standards, managing data quality, ensuring compliance, and enforcing data security and privacy measures.
+Focus:<br>
+- Data governance focuses on the overall strategy, policies, and framework for managing and ensuring the quality, availability, integrity, and security of data.
+Purpose:><br>
+- The primary purpose of data governance is to establish rules, guidelines, and processes to ensure that data is used effectively, responsibly, and in compliance with regulatory requirements.
+Components:
+<br>
+- Data governance involves defining the roles and responsibilities of stakeholders, establishing policies and standards, managing data quality, ensuring compliance, and enforcing data security and privacy measures.
 Example: A data governance program might involve creating a data governance council, developing data policies and standards, assigning data stewards, and monitoring adherence to data governance principles.
 
 
