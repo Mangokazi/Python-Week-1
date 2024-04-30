@@ -419,12 +419,19 @@ MicroStrategy is an analytics suite that is less well-known than similar tools f
  ### Data Governance:
 Focus:<br>
 - Data governance focuses on the overall strategy, policies, and framework for managing and ensuring the quality, availability, integrity, and security of data.
-Purpose:><br>
+Purpose:<br>
 - The primary purpose of data governance is to establish rules, guidelines, and processes to ensure that data is used effectively, responsibly, and in compliance with regulatory requirements.
-Components:
-<br>
+Components:<br>
 - Data governance involves defining the roles and responsibilities of stakeholders, establishing policies and standards, managing data quality, ensuring compliance, and enforcing data security and privacy measures.
 Example: A data governance program might involve creating a data governance council, developing data policies and standards, assigning data stewards, and monitoring adherence to data governance principles.
+### Data Management:
+Focus:<br>
+- Data management focuses on the practical aspects of handling data throughout its lifecycle, including collection, storage, processing, and analysis.
+Purpose:<br>
+- The purpose of data management is to ensure that data is stored efficiently, organized effectively, and used appropriately to support the organization's goals and objectives.
+Components:<br>
+- Data management involves activities such as data collection, data storage, data integration, data cleaning, data modeling, data analysis, and data archiving.
+Example: Data management activities might include implementing a data warehouse for storing and organizing data, developing ETL (Extract, Transform, Load) processes to integrate data from multiple sources, and implementing data quality tools to clean and standardize data.
 
 
  
