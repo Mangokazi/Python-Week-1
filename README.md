@@ -607,6 +607,17 @@ Ensures compliance with legal and regulatory requirements.
 ### The Lifecycle of Data
 ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/6755ac0b-fce9-4b27-8785-a28332278bee)<br>
 
+### Creation:  
+This is the stage at which data comes into being. It may be manual or automated and get created internally or externally. Data is created all the time by a vast number of activities that include system inputs and outputs.
+### Storage:  
+Once data is created and assuming you want it available for later use, it must be stored. It most likely will be contained and managed in a database. The database needs a home, too as a local hard drive, server, or cloud service.
+### Usage: 
+Hopefully you’re capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. That could include cleansing it of errors, transforming it to another format, and securing access rights.
+### Archival: 
+In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized.
+### Destruction:
+Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
+
 
 
 
