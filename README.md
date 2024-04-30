@@ -414,6 +414,8 @@ MicroStrategy is an analytics suite that is less well-known than similar tools f
 - Data Access and Authorization: Controlling who has access to what data and under what circumstances, ensuring that access is granted based on roles and responsibilities.
 - Data Compliance and Risk Management: Ensuring that data practices comply with relevant laws, regulations, and industry standards, and mitigating risks associated with data management.
 - Data Governance Council or Committee: Establishing a governing body responsible for setting data governance strategy, policies, and priorities, often composed of senior executives and representatives from different departments.
+  ### Data Governance VS Data Management
+- Data governance and data management are related concepts that work together to ensure the effective use and management of data within an organization, but they focus on different aspects of the data lifecycle.
 
 
  
