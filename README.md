@@ -658,6 +658,7 @@ Education and training programs focus on developing data literacy, analytics, an
 - Velocity: With so many collection points, digital interfaces, and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, uploaded, and share 65,000 pictures a minute.
 - Variability:  The fact that the creation and flow of data are unpredictable.
 - Veracity:  The quality, including accuracy and truthfulness, of large volume of disparate sets of data, can differ considerably, causing challenges to data management.
+# Chapter 3: Driving Value Through Data
 
 
 
