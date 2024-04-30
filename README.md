@@ -562,6 +562,14 @@ To give you a sense of scale:
 - The exponential growth of data generated each year has made zettabytes more relevant. With the increasing use of the internet, social media, cloud computing, and the Internet of Things (IoT), it's expected that the global data volume will continue to grow rapidly, possibly reaching zettabyte levels sooner than we might imagine.
 ### The qualitative and quantitative nature of data types
 ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/a7b4cfef-8134-45d3-9a22-478f02f9aaa0)<br>
+### From Data to Insight
+- Data refers to raw facts, figures, or symbols that represent information. It is often unprocessed and lacks context until it's organized or interpreted.
+
+- Information, on the other hand, is processed, organized, and structured data that has context, meaning, and relevance for a specific purpose or audience.
+  ### Illustrates the journey from data to insight
+  ![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/9cc14922-4d52-4d85-a924-e109dc35af7c)<br>
+
+
 
 
 
