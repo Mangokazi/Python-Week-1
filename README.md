@@ -672,6 +672,10 @@ Education and training programs focus on developing data literacy, analytics, an
 - Creating a strategy typically comes down to a core set of activities. It begins with an analysis of the environment followed by some conclusions on what has been gathered. Finally, a plan is developed, driven by some form of guiding principles. These principles may be derived from the nature of the work, the values of the founders, or some other factors.
 #### Decisoin-Making
 - Decision making in data involves using insights gleaned from data analysis to inform and enhance the decision-making process. By collecting, cleaning, and analyzing relevant data, organizations can gain valuable insights into their operations, customers, and markets. These insights help in identifying trends, patterns, and correlations that may not be apparent through intuition alone. Through visualization and interpretation of data, decision makers can understand complex relationships and make informed choices that drive business success. Data-driven decision making enables organizations to optimize processes, improve efficiency, and mitigate risks. It also fosters innovation by identifying new opportunities and guiding strategic initiatives. Ultimately, by leveraging data to inform decision making, organizations can achieve better outcomes, enhance competitiveness, and adapt to changing environments with confidence.
+#### Measuring
+- Organizations are in a continuous state of measurement, whether it’s overt or tacit. Every observed unit of data contributes to building a picture of the business. The often-used adage, what gets measured gets managed, is generally applicable. That said, some things are hard to measure and not everything gets measured.
+- The aspiration for every leader is that they have the information they need when they need it. You might not always think of it this way, but that information is going to be derived from data that is a result of some form of measurement.
+#### Monitoring
 
 
 
