@@ -395,7 +395,7 @@ MicroStrategy is an analytics suite that is less well-known than similar tools f
 <details>
 <summary>Data Governance</summary><br>
  
-# Data Governance: Module
+# Data Governance: Chapter 1
 ### What is data?
 - Data refers to facts, figures, or information, often in the form of numbers, text, or multimedia, that are collected, stored, and analyzed for various purposes. It can be anything from simple measurements to complex multimedia files, and it can represent almost anything, from business transactions to scientific observations to personal preferences.
 ### Data can be classified into two main types:
@@ -471,6 +471,8 @@ Example: Implementing information governance might involve developing a comprehe
 - Data Asset Valuation: Well-governed data assets are more valuable to the organization. By ensuring data quality, security, and compliance, organizations can maximize the value of their data assets, leading to better financial performance and market competitiveness.
 - Support for Data-Driven Innovation: Data governance provides a solid foundation for data-driven innovation initiatives. With properly governed data, organizations can explore new opportunities, develop innovative products and services, and adapt to changing market conditions more effectively.
 - Customer Satisfaction and Loyalty: By ensuring data accuracy and privacy, organizations can enhance customer satisfaction and loyalty. Customers are more likely to trust organizations that handle their data responsibly, leading to stronger relationships and increased customer retention.
+## The most common elements of a data governance program.
+https://classes.capaciti.org.za/asset-v1:CITI+DS+2023+type@asset+block@Data_Governance.jpg
 
 
  
