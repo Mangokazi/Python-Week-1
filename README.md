@@ -548,6 +548,18 @@ The following basic checklist of items will help you determine the data governan
 - Fundamental data skills exist for the data governance journey.
 - The IT organization is capable and resourced to support the program.
 # Chapter 2: Exploring a World Overflowing with Data
+### What is a zettabyte?
+- A zettabyte is a unit of digital information storage equal to 1,000 exabytes, 1,000,000 petabytes, or 1,000,000,000 terabytes.
+
+To give you a sense of scale:
+
+- 1 zettabyte is equivalent to 1,000,000,000,000,000,000,000 bytes.
+- It's often abbreviated as "ZB."
+- In simpler terms, a zettabyte is an enormous amount of data storage capacity. It's far beyond what an average person can easily comprehend. To put it in context:
+
+- A single zettabyte could hold billions of hours of HD video, millions of years' worth of music, or countless documents and images.
+- The entire world's digital data produced in a year might reach into the zettabyte range.
+- The exponential growth of data generated each year has made zettabytes more relevant. With the increasing use of the internet, social media, cloud computing, and the Internet of Things (IoT), it's expected that the global data volume will continue to grow rapidly, possibly reaching zettabyte levels sooner than we might imagine.
 
 
  
