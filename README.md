@@ -651,7 +651,7 @@ Regulations like GDPR and CCPA aim to protect individual privacy rights and ensu
 The demand for data scientists, analysts, and professionals with big data skills has grown significantly.
 Education and training programs focus on developing data literacy, analytics, and programming skills to meet industry demands.
 ### Defining Big Data
-- One way to define and characterize big data is through these five Vs:<br>
+### One way to define and characterize big data is through these five Vs:<br>
 
 - Volume: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
 - Variety: There are already a lot of legacy file formats, such as CSV and MP3, and with new innovations, new formats are emerging all the time. This requires different methods of handling, from analysis to security.
