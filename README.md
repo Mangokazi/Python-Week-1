@@ -663,9 +663,13 @@ Education and training programs focus on developing data literacy, analytics, an
 - Data plays several crucial roles across various domains, industries, and functions.
 ### Here are some key roles of data:
 #### - Operations
-Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization. Each business has different needs, and operational functions reflect these specific requirements. Some core functions show up in almost every organization. Consider payroll, order management, and marketing. At the same time, some operational support won’t be required. Not every organization needs its own IT organization, or if it’s a service business, it may not have a warehouse.<br>
-Operations use data to make decisions, enable systems to run, and deliver data to internal and external entities. For example, a regional sales team will deliver their monthly results to headquarters to be presented to vice presidents or the C-suite.
+- Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization. Each business has different needs, and operational functions reflect these specific requirements. Some core functions show up in almost every organization. Consider payroll, order management, and marketing. At the same time, some operational support won’t be required. Not every organization needs its own IT organization, or if it’s a service business, it may not have a warehouse.<br>
+- Operations use data to make decisions, enable systems to run, and deliver data to internal and external entities. For example, a regional sales team will deliver their monthly results to headquarters to be presented to vice presidents or the C-suite.
 #### - Strategy
+- Every organization has a strategy, whether it’s articulated overtly or not. At the organizational level, this is about creating a plan that supports objectives and goals. It’s essentially about understanding the challenges to delivering on the organization’s purpose and then agreeing on the proposed solutions to those challenges. Strategy can also be adopted at the department and division levels, but the intent is the same: understand the journey ahead and make a plan.
+- Strategy leads to implementation and requires the support of operations to realize its goals. In this way, strategy and operations are two sides of the same coin. Done right, a data-driven strategy delivered with operational excellence can be a winning ticket. 
+
+- Creating a strategy typically comes down to a core set of activities. It begins with an analysis of the environment followed by some conclusions on what has been gathered. Finally, a plan is developed, driven by some form of guiding principles. These principles may be derived from the nature of the work, the values of the founders, or some other factors.
 
 
 
