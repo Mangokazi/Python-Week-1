@@ -532,7 +532,7 @@ Are employees engaged in data-related activities and initiatives?
 Are achievements and contributions in data-driven projects recognized and rewarded?
 Do employees feel valued for their data-related skills and efforts?
 ## Assessing Data Governance Readiness
--Assessing data governance readiness involves evaluating an organization's readiness to implement and sustain an effective data governance program.<br>
+- Assessing data governance readiness involves evaluating an organization's readiness to implement and sustain an effective data governance program.<br>
 
 The following basic checklist of items will help you determine the data governance readiness of your organization:<br>
 
@@ -547,7 +547,7 @@ The following basic checklist of items will help you determine the data governan
 - Legal and compliance teams (internally or externally) understand and support the goals of the program.
 - Fundamental data skills exist for the data governance journey.
 - The IT organization is capable and resourced to support the program.
-
+# Chapter 2: Exploring a World Overflowing with Data
 
 
  
