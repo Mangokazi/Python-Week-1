@@ -391,14 +391,8 @@ Power BI Report Builder allows developers to create paginated reports that are d
 Power BI Report Server offers organizations the ability to host their own Power BI environment on internal servers for stakeholders to access.
 *MicroStrategy
 MicroStrategy is an analytics suite that is less well-known than similar tools from IBM and Microsoft, but it does have a well-established user base. MicroStrategy offers many of the same tools as its counterparts, making it easy for users to build dashboards and reports and apply machine learning techniques to their business data.
-
-  
-
-
-
-
-
-
-
-
+</details>
+<details>
+<summary>Data Governance</summary><br>
+ 
 </details>
