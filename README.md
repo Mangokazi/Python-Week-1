@@ -670,6 +670,8 @@ Education and training programs focus on developing data literacy, analytics, an
 - Strategy leads to implementation and requires the support of operations to realize its goals. In this way, strategy and operations are two sides of the same coin. Done right, a data-driven strategy delivered with operational excellence can be a winning ticket. 
 
 - Creating a strategy typically comes down to a core set of activities. It begins with an analysis of the environment followed by some conclusions on what has been gathered. Finally, a plan is developed, driven by some form of guiding principles. These principles may be derived from the nature of the work, the values of the founders, or some other factors.
+#### Decisoin-Making
+
 
 
 
