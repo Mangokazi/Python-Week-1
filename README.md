@@ -604,6 +604,9 @@ Evaluates technologies and architectures that support horizontal and vertical sc
 Defines processes and policies for managing data throughout its lifecycle, from creation to archival or deletion.
 Includes data retention policies, data archival strategies, and data disposal procedures.
 Ensures compliance with legal and regulatory requirements.
+### The Lifecycle of Data
+![image](https://github.com/Mangokazi/Python-Week-1/assets/162969644/6755ac0b-fce9-4b27-8785-a28332278bee)<br>
+
 
 
 
