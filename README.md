@@ -662,8 +662,8 @@ Education and training programs focus on developing data literacy, analytics, an
 ### Identifying the Roles of Data
 - Data plays several crucial roles across various domains, industries, and functions.
 ### Here are some key roles of data:
-### Operations
-- Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization. Each business has different needs, and operational functions reflect these specific requirements. Some core functions show up in almost every organization. Consider payroll, order management, and marketing. At the same time, some operational support won’t be required. Not every organization needs its own IT organization, or if it’s a service business, it may not have a warehouse.
+### - Operations
+ Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization. Each business has different needs, and operational functions reflect these specific requirements. Some core functions show up in almost every organization. Consider payroll, order management, and marketing. At the same time, some operational support won’t be required. Not every organization needs its own IT organization, or if it’s a service business, it may not have a warehouse.
 
 
 
