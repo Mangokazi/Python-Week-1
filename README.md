@@ -680,6 +680,7 @@ Education and training programs focus on developing data literacy, analytics, an
 - Organizations are in a continuous state of measurement, whether it’s overt or tacit. Every observed unit of data contributes to building a picture of the business. The often-used adage, what gets measured gets managed, is generally applicable. That said, some things are hard to measure and not everything gets measured.
 - The aspiration for every leader is that they have the information they need when they need it. You might not always think of it this way, but that information is going to be derived from data that is a result of some form of measurement.
 #### Monitoring
+-
 
 
 
