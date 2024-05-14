@@ -682,12 +682,7 @@ Education and training programs focus on developing data literacy, analytics, an
 #### Monitoring
 -
 
-
-
-
-
-
-
-
- 
+</details>
+<details>
+<summary>Business Intelligence- Power BI</summary><br>
 </details>
