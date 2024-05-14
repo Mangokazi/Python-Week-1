@@ -685,4 +685,32 @@ Education and training programs focus on developing data literacy, analytics, an
 </details>
 <details>
 <summary>Business Intelligence- Power BI</summary><br>
+ 
+ # What is Power BI?
+ - Power BI is a powerful business analytics tool developed by Microsoft. It allows users to visualize and analyze data from various sources to gain insights into their business or organization.
+## Here is what Power Bi offers:
+- Data Connections: Power BI can connect to a wide range of data sources, including databases, Excel files, web services, cloud services, and more.
+- Data Transformation: Users can transoform raw data into a format suitable for analysis using Power Query, a feature integrated into Power BI. This includes cleaning, shaping, and combining data from different sources.
+- Data Modelling: Power BI provides a robust data modeling engine that allows users to create relationships between different data tables, define calculated columns, measures, and hierachies.
+- Visualization: One of the features of Power BI is it's abilitity to create interactive and visually appealing reports and dashboards. Users can choose from a variety of visualizations such as charts, graphs, maps, and tables to present their data.
+- Analytics: Power BI includes built-in advanced analytics capabilities such as forecasting, clustering, and time series analysis. Users can perform complex calculations and serive insights directly within the tool.
+- Sharing and Collaboration: Power BI allows users to share thier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </details>
